@@ -179,7 +179,7 @@ void updateAnimation() {
   // Normaliser les poids : i.e. diviser chaque poids par la somme des poids
 
   float len = w0 + w1 + w2;
-  cerr << w0 << " " << w1 << " " << w2 << " (" << len << ")" << endl;
+  // cerr << w0 << " " << w1 << " " << w2 << " (" << len << ")" << endl;
   for (uint i = 0; i < V.size(); ++i) {
 
     V[i].setPosition(V0[i].getPosition() * w0 / len +
@@ -222,7 +222,7 @@ void updateAnimation() {
   // Matrice rotation appliquer au resulat
   // tester votre matrices en utilisant la matrice model
   Mat3 rotation = Mat3::Identity() * Ry;
-  cout << angle;
+  // cout << angle;
 
   for (uint i = 0; i < V.size(); ++i) {
 
