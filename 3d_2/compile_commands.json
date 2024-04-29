@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++23",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/hurel/3d_2",
+    "file": "/home/hurel/3d_2/src/main.cpp",
+    "output": "/home/hurel/3d_2/src/main.o"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-I.",
+      "-c",
+      "-o",
+      "tp.o",
+      "tp.cpp"
+    ],
+    "directory": "/home/hurel/donne-multi/3d_4",
+    "file": "/home/hurel/donne-multi/3d_4/tp.cpp",
+    "output": "/home/hurel/donne-multi/3d_4/tp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-I.",
+      "-c",
+      "-o",
+      "src/Camera.o",
+      "src/Camera.cpp"
+    ],
+    "directory": "/home/hurel/donne-multi/3d_4",
+    "file": "/home/hurel/donne-multi/3d_4/src/Camera.cpp",
+    "output": "/home/hurel/donne-multi/3d_4/src/Camera.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-I.",
+      "-c",
+      "-o",
+      "src/Triangle.o",
+      "src/Triangle.cpp"
+    ],
+    "directory": "/home/hurel/donne-multi/3d_4",
+    "file": "/home/hurel/donne-multi/3d_4/src/Triangle.cpp",
+    "output": "/home/hurel/donne-multi/3d_4/src/Triangle.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-I.",
+      "-c",
+      "-o",
+      "src/Mesh.o",
+      "src/Mesh.cpp"
+    ],
+    "directory": "/home/hurel/donne-multi/3d_4",
+    "file": "/home/hurel/donne-multi/3d_4/src/Mesh.cpp",
+    "output": "/home/hurel/donne-multi/3d_4/src/Mesh.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-I.",
+      "-c",
+      "-o",
+      "src/Vertex.o",
+      "src/Vertex.cpp"
+    ],
+    "directory": "/home/hurel/donne-multi/3d_4",
+    "file": "/home/hurel/donne-multi/3d_4/src/Vertex.cpp",
+    "output": "/home/hurel/donne-multi/3d_4/src/Vertex.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-I.",
+      "-c",
+      "-o",
+      "src/Shader.o",
+      "src/Shader.cpp"
+    ],
+    "directory": "/home/hurel/donne-multi/3d_4",
+    "file": "/home/hurel/donne-multi/3d_4/src/Shader.cpp",
+    "output": "/home/hurel/donne-multi/3d_4/src/Shader.o"
+  }
+]
