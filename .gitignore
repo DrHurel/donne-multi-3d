@@ -2,6 +2,7 @@
 *.d
 .cache
 output
+*.Identifier
 
 # Object files
 *.o
